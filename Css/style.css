@@ -1,0 +1,305 @@
+.gradient-background {
+    background: linear-gradient(300deg, #6ee276e6, #3292e1, #58d7d7);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+
+  .html-img{
+    margin-bottom: 10px;
+    height: 78px;
+    margin-top: -13px;
+}
+  .java-img{
+    padding-left: 0px;
+    height: 73px;
+    margin-top: -12px;
+}
+
+
+.python-img{
+    padding-left: 2px;
+    height: 67px;
+    margin-top: -10px;
+}
+
+.c-img{
+    height: 67px;
+    margin-top: -7px;
+
+}
+
+
+.cal-program{
+    padding-left: 8px;
+    height: 69px;
+    margin-top: -9px;
+}
+
+
+
+.sql-img{
+    padding-left: 2px;
+    height: 67px;
+    margin-top: -10px;
+}
+
+.mongo-img{
+    padding-left: 2px;
+    height: 105px;
+    margin-top: -16px;
+}
+
+.Post-sql-img{
+    height: 81px;
+    margin-top: -7px;
+}
+
+.fire-img{
+    height: 84px;
+    margin-top: -10px;
+}
+.node-js{
+    height: 75px;
+    margin-top: -22px;
+}
+
+.postman-img{
+    height: 88px;
+    margin-top: -22px;
+}
+.Kotlin-img{
+    height: 77px;
+    margin-top: -19px;
+    margin-left: -11px;
+}
+.dart-img{
+    height: 76px;
+    margin-top: -10px;
+    margin-left: 1px;
+}
+.React-js{
+    height: 84px;
+    margin-top: -23px;
+}
+.React-native{
+    padding-left: 8px;
+    height: 85px;
+    margin-top: -16px;
+}
+.Android-std{
+    padding-left: 21px;
+    height: 70px;
+    margin-top: -19px;
+    margin-left: -7px;
+}
+.Flutter-img{
+    height: 80px;
+    margin-top: -15px;
+    margin-left: -13px;
+}
+.Sol-img{
+    padding-left: 17px;
+    height: 79px;
+    margin-top: -19px;
+}
+
+
+.eth-img{
+    height: 93px;
+    margin-top: -18px;
+}
+
+.Scratch-img{
+    padding-left: 10px;
+    height: 79px;
+    margin-top: -16px;
+}
+
+.Power-shell{
+    height: 122px;
+    margin-top: -39px;
+    margin-left: -9px;
+}
+
+
+.container{
+    padding-top: 20px;
+}
+
+
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: rgb(255 255 255)!important;
+}
+
+
+
+
+
+
+
+  
+
+@media(max-width:600px){
+    .java-img{
+    padding-left: 5px;
+    height: 70px;
+    margin-top: -14px;
+    }
+
+    .python-img{
+    padding-left: 6px;
+    height: 67px;
+    margin-top: -10px;
+    }
+
+    .c-img{
+    height: 67px;
+    margin-top: -7px;
+    padding-left: -8px;
+    }
+
+    .cal-program{
+    padding-left: 12px;
+    height: 69px;
+    margin-top: -9px;
+    margin-left: 2px;
+}
+
+.sql-img{
+    padding-left: 12px;
+    height: 68px;
+    margin-top: -10px;
+}
+
+.mongo-img{
+    height: 106px;
+    margin-top: -25px;
+}
+
+.Post-sql-img{
+    padding-left: 2px;
+    height: 91px;
+    margin-top: -26px;
+}
+
+.fire-img{
+    height: 84px;
+    margin-top: -10px;
+    padding-left: 11px;
+}
+.node-js{
+    padding-left: 6px;
+    height: 94px;
+    margin-top: -13px;
+}
+.postman-img{
+    height: 125px;
+    margin-top: -11px;
+    margin-left: -12px;
+}
+
+
+.Kotlin-img{
+    margin-top: -19px;
+    height: 96px;
+    margin-left: -8px;
+}
+
+.dart-img{
+    padding-left: 22px;
+    height: 79px;
+    margin-top: -20px;
+}
+
+.React-js{
+    padding-left: 12px;
+    height: 105px;
+    margin-top: -16px;
+}
+
+
+.React-native{
+    padding-left: 18px;
+    height: 97px;
+    margin-top: -23px;
+}
+
+
+.Android-std{
+    padding-left: 29px;
+    height: 97px;
+    margin-top: -19px;
+    margin-left: -7px;
+}
+
+.Flutter-img{
+    height: 95px;
+    margin-top: -16px;
+    margin-left: -3px;
+}
+
+
+.Sol-img{
+    padding-left: 41px;
+    height: 88px;
+    margin-top: -11px;
+}
+
+.eth-img{
+    padding-left: 8px;
+    height: 111px;
+    margin-top: -12px;
+}
+
+
+.Scratch-img{
+    padding-left: 17px;
+    height: 89px;
+    margin-top: -11px;
+}
+
+
+.Power-shell{
+    padding-left: 7px;
+    height: 126px;
+    margin-top: -39px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+    
+
+
+
+
+
